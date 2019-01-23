@@ -4,6 +4,4 @@
 
 Some info
 
-Updated some text in the update readme branch
-
-And here is some more chenge
+This README is updated from remote
