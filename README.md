@@ -2,4 +2,4 @@
 
 # Smaller header
 
-Some less info
+Some more elaborate info
