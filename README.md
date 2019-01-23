@@ -2,6 +2,4 @@
 
 # Smaller header
 
-Some info
-
-Updated MORE text in the update readme branch
+Some less info
